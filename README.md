@@ -1,18 +1,3 @@
----
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=calcuttarain&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calcuttarain&layout=compact&theme=tokyonight&langs_count=10&hide_progress=true&include_all_commits=true&count_private=true" alt="Top Languages" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=calcuttarain&theme=tokyonight&utcOffset=3&count_private=true" alt="Hours" />
-</p>
-
-<p align="center">
-  <img src="https://badges.pufler.dev/commits/all/calcuttarain" alt="Commits" />
-  <img src="https://badges.pufler.dev/repos/calcuttarain" alt="Repos" />
-  <img src="https://badges.pufler.dev/years/calcuttarain" alt="Years" />
-</p>
 
 ---
 
