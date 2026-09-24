@@ -1,3 +1,0 @@
-# About
-
-I am a Computer Science graduate and a Master's student in Mathematics at the Faculty of Mathematics and Computer Science, University of Bucharest. If you want to learn more about me, this might help: [calcuttarain.github.io](https://calcuttarain.github.io).
